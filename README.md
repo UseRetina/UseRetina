@@ -7,4 +7,4 @@ Retina is a crypto portfolio tracker for people whose money is spread across DeF
 - Blog: https://useretina.xyz/blog
 - Support: support@useretina.xyz
 
-Retina has no token. Its only website is useretina.xyz.
+Retina's only website is useretina.xyz.
